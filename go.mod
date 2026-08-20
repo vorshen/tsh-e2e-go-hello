@@ -1,4 +1,4 @@
-module github.com/vorshen/tsh-e2e-go-hello
+module github.com/vorshen/tsh-e2e-go-modules
 
 go 1.23
 

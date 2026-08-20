@@ -9,5 +9,5 @@ func main() {
 	if id.Version() != 4 {
 		panic("fixture UUID is not version 4")
 	}
-	fmt.Println("tsh-e2e-go-ok")
+	fmt.Println("tsh-e2e-go-modules-ok")
 }
